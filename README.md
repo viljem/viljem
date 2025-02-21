@@ -2,10 +2,10 @@
 
 - 👋 Hi, I’m @viljem
 - 👀 I’m interested in videogames and software development
-- 🌱 I’m currently learning React and Unity
+- 🌱 I’m currently learning Data Science and IA
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/guillermoqui%C3%B1ones/">Linkedin</a> - 
-<a href="https://twitter.com/viljemx">Twitter</a>
+<a href="https://twitter.com/viljemx">X</a>
 
 <!---
 viljem/viljem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
